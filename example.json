@@ -1,0 +1,1 @@
+{"components":[{"id":"id","type":"res","resistance":{"Default":1.2,"min":1.0,"max":2.0},"netList":{"t1":"t","t2":"t2"}},{"id":"ID1","type":"NMOS","ml":{"Default":1.2,"min":1.0,"max":2.0},"netList":{"drain":"t0","gate":"t2","source":"vdd"}}]}
